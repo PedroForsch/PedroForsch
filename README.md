@@ -20,16 +20,6 @@ Interessado na área de Segurança da Informação, planejo aprofundar meus estu
 
 Não busco parecer algo que ainda não sou. Estou construindo minha base, com curiosidade e consistência.
 
-<br>
-
-## Como eu penso um projeto
-
-```
-Problema real  →  Estudar  →  Organizar  →  Desenvolver  →  Testar  →  Melhorar
-```
-
-<br>
-
 ## Tecnologias
 
 <div align="left">
