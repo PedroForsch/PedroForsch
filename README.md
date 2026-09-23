@@ -43,14 +43,14 @@
 ## 🚀 Atualmente
 
 ```diff
-+ 🎓 Sistemas de Informação
-+ 🐍 Python
-+ 📊 Análise de Dados
-+ 🧠 Estruturas de Dados
-+ 🔐 Cibersegurança
-+ 🤖 Inteligência Artificial
-+ ⚙️ Automação
-+ 🐙 Git & GitHub
++  Sistemas de Informação
++  Python
++  Análise de Dados
++  Estruturas de Dados
++  Cibersegurança
++  Inteligência Artificial
++  Automação
++  Git & GitHub
 ```
 
 ---
@@ -118,15 +118,8 @@ Quero construir uma base sólida em programação e sistemas para posteriormente
 
 ---
 
-
-```
-
-<br>
-
 ### Entre em contato comigo!
 
-</br>
-<br>
 Instagram: pedro_forsch
 
 Email: pedrohenriqueforsch@gmail.com
