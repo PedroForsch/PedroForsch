@@ -13,7 +13,7 @@
 
 ---
 
-##🧑‍💻 Sobre mim
+##   Sobre mim
 
 🎓 Estudante de **Sistemas de Informação**, atualmente construindo minha base em programação e desenvolvimento de sistemas.
 
@@ -191,16 +191,6 @@ Quero construir uma base sólida em programação e sistemas para posteriormente
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pedroforsch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### Entre em contato comigo!
 
 <br>
@@ -209,8 +199,5 @@ Instagram: pedro_forsch
 
 Email: pedrohenriqueforsch@gmail.com
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pedroforsch\&color=539BF5\&style=for-the-badge)
 
 </div>
