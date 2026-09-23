@@ -1,129 +1,74 @@
 <div align="center">
 
-# Prazer, eu sou Pedro Forsch!
+# PEDRO FORSCH
 
-### `Estudante de Sistemas de Informação • Desenvolvedor em formação`
+`Estudante de Sistemas de Informação` • `Desenvolvedor em formação`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedroforsch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-forsch-099620419/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-pedroforsch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroforsch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Forsch-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-forsch-099620419/)
+[![Email](https://img.shields.io/badge/Email-contato-3776AB?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohenriqueforsch@gmail.com)
 
 </div>
 
----
+<br>
 
-##   Sobre mim
+## Sobre
 
-🎓 Estudante de **Sistemas de Informação**, atualmente construindo minha base em programação e desenvolvimento de sistemas.
+Estudante de Sistemas de Informação, no início da carreira em tecnologia. Trabalho atualmente em uma assessoria contábil, onde tenho contato direto com processos financeiros, dados e rotinas administrativas — o que me aproximou da ideia de usar programação para resolver problemas reais de negócio.
 
-💼 Trabalho em **assessoria contábil**, onde tenho contato direto com processos financeiros, dados e problemas reais de negócio.
+Antes disso, servi no Exército Brasileiro por cerca de 11 meses, em um quartel de material bélico com foco em manutenção de equipamentos e rádio. Levo dessa experiência disciplina, organização e constância — valores que aplico hoje ao aprender e construir.
 
-💻 Gosto de transformar problemas em soluções utilizando tecnologia, principalmente através de **Python, automação e análise de dados**.
+Não busco parecer algo que ainda não sou. Estou construindo minha base, com curiosidade e consistência.
 
-🔐 Tenho interesse especial em **Cibersegurança**, buscando entender como sistemas funcionam e como podem ser protegidos.
+<br>
 
-🤖 Também estou explorando **Inteligência Artificial** e suas possibilidades no desenvolvimento de soluções.
+## Como eu penso um projeto
 
-```text
- Problema real
-      ↓
-   Estudar
-      ↓
-   Organizar
-      ↓
-  Desenvolver
-      ↓
-    Testar
-      ↓
-   Melhorar
+```
+Problema real  →  Estudar  →  Organizar  →  Desenvolver  →  Testar  →  Melhorar
 ```
 
----
+<br>
 
-## 🚀 Atualmente
+## Tecnologias
 
-```diff
-+  Sistemas de Informação
-+  Python
-+  Análise de Dados
-+  Estruturas de Dados
-+  Cibersegurança
-+  Inteligência Artificial
-+  Automação
-+  Git & GitHub
-```
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" height="48"/>
+</div>
 
----
+`Pandas` · `Google Colab` · lógica de programação, estruturas de dados (listas, tuplas, dicionários, conjuntos) e tratamento/análise de dados
 
-## 🛠️ Tecnologias
+**Explorando:** cibersegurança (fundamentos de redes, segurança da informação e proteção de sistemas) e Inteligência Artificial aplicada ao desenvolvimento de soluções
 
-### 💻 Desenvolvimento
+<br>
 
-<p align="left">
+## Projetos
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-</a>
+**Alimentador automático — ESP32**
+Sistema com ESP32, servo motor e sensor ultrassônico, com interface web e diferentes níveis de acionamento conforme a distância detectada. Une programação, hardware e automação.
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-</a>
+**Sistema para produtores rurais** *(em desenvolvimento)*
+Ferramenta para que o produtor rural acompanhe os gastos da lavoura de forma independente e organizada. Ideia nascida da vivência com clientes reais na assessoria contábil.
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
+**Análises de dados — Python & Pandas**
+Projetos acadêmicos de limpeza, tratamento e análise exploratória de dados sobre temas como evasão escolar, absenteísmo, ouvidoria municipal, vendas no varejo, contas a receber e agendamentos de clínica.
 
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-</a>
+<br>
 
-</p>
+## Estatísticas
 
-### 📊 Dados
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pedroforsch&show_icons=true&theme=dark&hide_border=true&hide_title=true&text_color=c9d1d9&icon_color=3776AB&bg_color=0d1117" height="165"/>
+</div>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="50"/>
-
-</p>
+<br>
 
 ---
 
-# 🔐 Cibersegurança
+<div align="center">
 
-Uma das áreas que mais quero explorar profissionalmente.
+**Disciplina • Constância • Dignidade**
 
-Meu interesse está principalmente em compreender:
-
-```text
-       SISTEMA
-          │
-    ┌─────┴─────┐
-    ↓           ↓
-   Desenvolvimento
-    │           │
-    ↓           ↓
- Função       Segurança
-    │           │
-    └─────┬─────┘
-          ↓
-   Solução confiável
-```
-
-Quero construir uma base sólida em programação e sistemas para posteriormente aprofundar meus conhecimentos em **segurança da informação, redes, vulnerabilidades e proteção de sistemas**.
-
----
-
-### Entre em contato comigo!
-
-Instagram: pedro_forsch
-
-Email: pedrohenriqueforsch@gmail.com
-</br>
-
+<sub>Instagram <a href="https://instagram.com/pedro_forsch">@pedro_forsch</a></sub>
 
 </div>
