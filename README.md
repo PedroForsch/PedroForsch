@@ -27,8 +27,9 @@ Não busco parecer algo que ainda não sou. Estou construindo minha base, com cu
   
 </div>
 
+<br>
 
-**Explorando:** cibersegurança (fundamentos de redes, segurança da informação e proteção de sistemas) e Inteligência Artificial aplicada ao desenvolvimento de soluções
+**Explorando:** Cibersegurança (fundamentos de redes, segurança da informação e proteção de sistemas), Inteligência Artificial aplicada ao desenvolvimento de soluções e Análise de Dados visando negócios.
 
 <br>
 
@@ -46,8 +47,6 @@ Projetos acadêmicos de limpeza, tratamento e análise exploratória de dados so
 ---
 
 <div align="center">
-
-**Disciplina • Constância • Dignidade**
 
 <sub>Instagram <a href="https://instagram.com/pedro_forsch">@pedro_forsch</a></sub>
 
