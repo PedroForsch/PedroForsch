@@ -16,7 +16,7 @@
 
 Estudante de Sistemas de Informação, no início da carreira em tecnologia. Trabalho atualmente em uma assessoria contábil, onde tenho contato direto com processos financeiros, dados e rotinas administrativas — o que me aproximou da ideia de usar programação para resolver problemas reais de negócio.
 
-Interessado na área de Segurança, planejo aprofundar meus estudos visando crescer na área de dados, segurança e IA.
+Interessado na área de Segurança da Informação, planejo aprofundar meus estudos visando crescer na área de dados, segurança e IA.
 
 Não busco parecer algo que ainda não sou. Estou construindo minha base, com curiosidade e consistência.
 
@@ -34,7 +34,9 @@ Problema real  →  Estudar  →  Organizar  →  Desenvolver  →  Testar  → 
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" height="48"/>
+  
 </div>
+
 
 **Explorando:** cibersegurança (fundamentos de redes, segurança da informação e proteção de sistemas) e Inteligência Artificial aplicada ao desenvolvimento de soluções
 
