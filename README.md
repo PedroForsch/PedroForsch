@@ -93,37 +93,6 @@
 
 ---
 
-# 📂 Projetos
-
-### 🌱 Sistema de Gestão de Gastos para Produtores Rurais - EM PESQUISA
-
-> Projeto em desenvolvimento voltado para produtores rurais.
-
-A proposta é permitir que o produtor acompanhe de forma independente os **gastos da lavoura**, organizando informações financeiras e transformando os dados em indicadores úteis para tomada de decisão.
-
-**Conceitos envolvidos:**
-
-`Python` `Dados` `Automação` `Sistema Web` `Negócio`
-
----
-
-### 🐶 Alimentador Automático com ESP32
-
-Projeto de automação desenvolvido utilizando:
-
-* ESP32
-* Servo motor
-* Sensor ultrassônico
-* Interface Web
-
-O sistema utiliza a distância detectada pelo sensor para controlar diferentes níveis de alimentação.
-
-**Tecnologias:**
-
-`ESP32` `C/C++` `IoT` `Sensores` `Web`
-
----
-
 # 🔐 Cibersegurança
 
 Uma das áreas que mais quero explorar profissionalmente.
@@ -149,31 +118,7 @@ Quero construir uma base sólida em programação e sistemas para posteriormente
 
 ---
 
-# 📚 Minha jornada
 
-```text
-                 2026
-                  │
-                  ▼
-        🎓 Sistemas de Informação
-                  │
-                  ▼
-           🐍 Aprendendo Python
-                  │
-                  ▼
-         📊 Trabalhando com dados
-                  │
-                  ▼
-          ⚙️ Criando automações
-                  │
-                  ▼
-       🔐 Explorando segurança
-                  │
-                  ▼
-          🤖 Explorando IA
-                  │
-                  ▼
-         🚀 Construindo projetos
 ```
 
 <br>
