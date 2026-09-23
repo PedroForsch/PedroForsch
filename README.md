@@ -7,13 +7,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedroforsch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-forsch-099620419/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informação;Python+%7C+Dados+%7C+Automação;Interessado+em+Cibersegurança;Explorando+Inteligência+Artificial;Construindo+projetos+reais." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informação;Python+%7C+Dados+%7C+Automação;Interessado+em+Cibersegurança;Explorando+Inteligência+Artificial;Construindo+projetos+reais." />
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+##🧑‍💻 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação**, atualmente construindo minha base em programação e desenvolvimento de sistemas.
 
@@ -201,11 +201,13 @@ Quero construir uma base sólida em programação e sistemas para posteriormente
 
 <div align="center">
 
-### 💻 Code. Learn. Build. Repeat.
+### Entre em contato comigo!
 
 <br>
 
-**Disciplina • Constância • Dignidade**
+Instagram: pedro_forsch
+
+Email: pedrohenriqueforsch@gmail.com
 
 <br>
 
