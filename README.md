@@ -40,7 +40,7 @@ Sistema com ESP32, servo motor e sensor ultrassônico, com interface web e difer
 Ferramenta para que o produtor rural acompanhe os gastos da lavoura de forma independente e organizada. Ideia nascida da vivência com clientes reais na assessoria contábil.
 
 **Análises de dados — Python & Pandas**
-Projetos acadêmicos de limpeza, tratamento e análise exploratória de dados sobre temas como evasão escolar, absenteísmo, ouvidoria municipal, vendas no varejo, contas a receber e agendamentos de clínica.
+Projetos acadêmicos de limpeza, tratamento e análise exploratória de dados.
 
 ---
 
