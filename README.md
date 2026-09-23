@@ -10,8 +10,6 @@
 
 </div>
 
-<br>
-
 ## Sobre
 
 Estudante de Sistemas de Informação, no início da carreira em tecnologia. Trabalho atualmente em uma assessoria contábil, onde tenho contato direto com processos financeiros, dados e rotinas administrativas — o que me aproximou da ideia de usar programação para resolver problemas reais de negócio.
