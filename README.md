@@ -1,202 +1,214 @@
-# 👋 Olá! Eu sou o Pedro Forsch
-
-🎓 Estudante de **Sistemas de Informação**
-💻 Desenvolvedor em formação
-🔐 Interessado em **Cibersegurança**
-🤖 Explorando **Inteligência Artificial**
-
-<p align="left">
-  <a href="https://github.com/pedroforsch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-
-Sou estudante de **Sistemas de Informação** e estou construindo minha carreira na área de tecnologia através de estudos, projetos acadêmicos e problemas reais.
-
-Atualmente trabalho em uma **assessoria contábil**, onde tenho contato com processos administrativos, financeiros e análise de dados. Essa experiência despertou meu interesse em utilizar tecnologia para **automatizar processos, organizar informações e transformar problemas de negócio em soluções digitais**.
-
-Tenho interesse especial em:
-
-* 🔐 Cibersegurança
-* 🤖 Inteligência Artificial
-* 🐍 Desenvolvimento com Python
-* 📊 Análise de dados
-* ⚙️ Automação de processos
-* 💡 Desenvolvimento de soluções para problemas reais
-
-> Estou no começo da minha jornada, mas tenho como objetivo construir uma base técnica sólida e transformar conhecimento em projetos cada vez mais completos.
-
----
-
-## 🚀 Tecnologias e ferramentas
-
-### Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-</p>
-
-### Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
-</p>
-
-### Dados
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="45"/>
-</p>
-
----
-
-## 📚 O que estou estudando
-
-```text
-Python
-├── Lógica de programação
-├── Estruturas de dados
-├── Funções
-├── Listas, tuplas, dicionários e conjuntos
-└── Programação orientada a projetos
-
-Dados
-├── Pandas
-├── Limpeza de dados
-├── Análise exploratória
-└── Visualização
-
-Tecnologia
-├── Git & GitHub
-├── Desenvolvimento de sistemas
-├── Cibersegurança
-└── Inteligência Artificial
-```
-
----
-
-## 💻 Projetos
-
-### 🌱 Sistema para produtores rurais
-
-Projeto em desenvolvimento para auxiliar produtores rurais no **acompanhamento dos gastos da lavoura**.
-
-A ideia é transformar informações de custos em uma ferramenta simples para acompanhamento financeiro e tomada de decisão.
-
-**Foco:**
-`Desenvolvimento` `Dados` `Negócio` `Automação`
-
----
-
-### 🐶 Alimentador automático com ESP32
-
-Projeto de automação utilizando **ESP32**, servo motor, sensor ultrassônico e interface web.
-
-O sistema utiliza a distância detectada pelo sensor para controlar diferentes níveis de alimentação.
-
-**Tecnologias:**
-`ESP32` `C/C++` `Sensores` `Servo Motor` `Web`
-
----
-
-### 📊 Projetos de análise de dados
-
-Projetos acadêmicos desenvolvidos utilizando **Python, Pandas e Google Colab**.
-
-Entre os problemas analisados:
-
-* 📚 Evasão escolar
-* 🏭 Absenteísmo
-* 🏛️ Ouvidoria municipal
-* 🛒 Vendas no varejo
-* 💰 Contas a receber
-* 🏥 Dados de atendimentos
-
-O objetivo não é apenas gerar gráficos, mas **encontrar problemas nos dados, tratá-los e transformar os resultados em informação útil**.
-
----
-
-## 🔐 Interesse em Cibersegurança
-
-Uma das áreas que mais despertam meu interesse é a **cibersegurança**.
-
-Quero compreender cada vez mais como sistemas são construídos, quais vulnerabilidades podem surgir e como desenvolver soluções pensando em **proteção, confiabilidade e segurança desde o início**.
-
-Meu objetivo é construir uma base que una:
-
-```text
-Programação
-      +
-Sistemas
-      +
-Segurança
-      ↓
-Soluções mais confiáveis
-```
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroforsch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+# 👋 Olá, eu sou Pedro Forsch!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroforsch&layout=compact&langs_count=7&theme=tokyonight"/>
+### `Estudante de Sistemas de Informação • Desenvolvedor em formação`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedroforsch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-forsch-099620419/)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informação;Python+%7C+Dados+%7C+Automação;Interessado+em+Cibersegurança;Explorando+Inteligência+Artificial;Construindo+projetos+reais." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🐍 Minha jornada
+## 🧑‍💻 Sobre mim
+
+🎓 Estudante de **Sistemas de Informação**, atualmente construindo minha base em programação e desenvolvimento de sistemas.
+
+💼 Trabalho em **assessoria contábil**, onde tenho contato direto com processos financeiros, dados e problemas reais de negócio.
+
+💻 Gosto de transformar problemas em soluções utilizando tecnologia, principalmente através de **Python, automação e análise de dados**.
+
+🔐 Tenho interesse especial em **Cibersegurança**, buscando entender como sistemas funcionam e como podem ser protegidos.
+
+🤖 Também estou explorando **Inteligência Artificial** e suas possibilidades no desenvolvimento de soluções.
 
 ```text
-        🎓 Sistemas de Informação
-                  │
-                  ▼
-        💻 Programação & Python
-                  │
-                  ▼
-           📊 Dados & Automação
-                  │
-                  ▼
-          🔐 Cibersegurança
-                  │
-                  ▼
-           🤖 Inteligência Artificial
-                  │
-                  ▼
-        🚀 Projetos reais
+ Problema real
+      ↓
+   Estudar
+      ↓
+   Organizar
+      ↓
+  Desenvolver
+      ↓
+    Testar
+      ↓
+   Melhorar
 ```
 
 ---
 
-## 📫 Entre em contato
+## 🚀 Atualmente
+
+```diff
++ 🎓 Sistemas de Informação
++ 🐍 Python
++ 📊 Análise de Dados
++ 🧠 Estruturas de Dados
++ 🔐 Cibersegurança
++ 🤖 Inteligência Artificial
++ ⚙️ Automação
++ 🐙 Git & GitHub
+```
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Desenvolvimento
 
 <p align="left">
-  <a href="https://github.com/pedroforsch">
-    <img src="https://img.shields.io/badge/GitHub-Pedro%20Forsch-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Forsch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</a>
+
 </p>
+
+### 📊 Dados
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="50"/>
+
+</p>
+
+---
+
+# 📂 Projetos
+
+### 🌱 Sistema de Gestão de Gastos para Produtores Rurais - EM PESQUISA
+
+> Projeto em desenvolvimento voltado para produtores rurais.
+
+A proposta é permitir que o produtor acompanhe de forma independente os **gastos da lavoura**, organizando informações financeiras e transformando os dados em indicadores úteis para tomada de decisão.
+
+**Conceitos envolvidos:**
+
+`Python` `Dados` `Automação` `Sistema Web` `Negócio`
+
+---
+
+### 🐶 Alimentador Automático com ESP32
+
+Projeto de automação desenvolvido utilizando:
+
+* ESP32
+* Servo motor
+* Sensor ultrassônico
+* Interface Web
+
+O sistema utiliza a distância detectada pelo sensor para controlar diferentes níveis de alimentação.
+
+**Tecnologias:**
+
+`ESP32` `C/C++` `IoT` `Sensores` `Web`
+
+---
+
+# 🔐 Cibersegurança
+
+Uma das áreas que mais quero explorar profissionalmente.
+
+Meu interesse está principalmente em compreender:
+
+```text
+       SISTEMA
+          │
+    ┌─────┴─────┐
+    ↓           ↓
+   Desenvolvimento
+    │           │
+    ↓           ↓
+ Função       Segurança
+    │           │
+    └─────┬─────┘
+          ↓
+   Solução confiável
+```
+
+Quero construir uma base sólida em programação e sistemas para posteriormente aprofundar meus conhecimentos em **segurança da informação, redes, vulnerabilidades e proteção de sistemas**.
+
+---
+
+# 📚 Minha jornada
+
+```text
+                 2026
+                  │
+                  ▼
+        🎓 Sistemas de Informação
+                  │
+                  ▼
+           🐍 Aprendendo Python
+                  │
+                  ▼
+         📊 Trabalhando com dados
+                  │
+                  ▼
+          ⚙️ Criando automações
+                  │
+                  ▼
+       🔐 Explorando segurança
+                  │
+                  ▼
+          🤖 Explorando IA
+                  │
+                  ▼
+         🚀 Construindo projetos
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroforsch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroforsch&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pedroforsch&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Construindo conhecimento. Desenvolvendo projetos. Evoluindo todos os dias.
+### 💻 Code. Learn. Build. Repeat.
+
+<br>
 
 **Disciplina • Constância • Dignidade**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pedroforsch\&color=539BF5\&style=for-the-badge)
 
 </div>
