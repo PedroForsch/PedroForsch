@@ -1,13 +1,12 @@
 <div align="center">
 
-# 👋 Olá, eu sou Pedro Forsch!
+# Prazer, eu sou Pedro Forsch!
 
 ### `Estudante de Sistemas de Informação • Desenvolvedor em formação`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pedroforsch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-forsch-099620419/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=650&lines=Estudante+de+Sistemas+de+Informação;Python+%7C+Dados+%7C+Automação;Interessado+em+Cibersegurança;Explorando+Inteligência+Artificial;Construindo+projetos+reais." />
 
 </div>
 
@@ -177,27 +176,16 @@ Quero construir uma base sólida em programação e sistemas para posteriormente
          🚀 Construindo projetos
 ```
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroforsch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroforsch&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 <br>
 
 ### Entre em contato comigo!
 
+</br>
 <br>
-
 Instagram: pedro_forsch
 
 Email: pedrohenriqueforsch@gmail.com
+</br>
 
 
 </div>
