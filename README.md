@@ -36,8 +36,6 @@ Problema real  →  Estudar  →  Organizar  →  Desenvolver  →  Testar  → 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" height="48"/>
 </div>
 
-`Pandas` · `Google Colab` · lógica de programação, estruturas de dados (listas, tuplas, dicionários, conjuntos) e tratamento/análise de dados
-
 **Explorando:** cibersegurança (fundamentos de redes, segurança da informação e proteção de sistemas) e Inteligência Artificial aplicada ao desenvolvimento de soluções
 
 <br>
@@ -52,16 +50,6 @@ Ferramenta para que o produtor rural acompanhe os gastos da lavoura de forma ind
 
 **Análises de dados — Python & Pandas**
 Projetos acadêmicos de limpeza, tratamento e análise exploratória de dados sobre temas como evasão escolar, absenteísmo, ouvidoria municipal, vendas no varejo, contas a receber e agendamentos de clínica.
-
-<br>
-
-## Estatísticas
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pedroforsch&show_icons=true&theme=dark&hide_border=true&hide_title=true&text_color=c9d1d9&icon_color=3776AB&bg_color=0d1117" height="165"/>
-</div>
-
-<br>
 
 ---
 
